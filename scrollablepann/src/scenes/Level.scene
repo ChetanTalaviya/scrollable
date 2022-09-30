@@ -1,0 +1,26 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "4f795e32-1a9b-4ab0-9f38-8a3a4de0d449",
+            "label": "dinoContainer",
+            "scope": "CLASS",
+            "components": [],
+            "list": []
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

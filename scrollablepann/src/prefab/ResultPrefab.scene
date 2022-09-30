@@ -1,0 +1,27 @@
+{
+    "id": "270e0a89-3171-4271-a87e-b43bedbb99f5",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": ""
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "ba6caa5e-b570-480b-80e9-af60945cfd12",
+            "label": "guapen",
+            "components": [],
+            "texture": {
+                "key": "guapen"
+            }
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
